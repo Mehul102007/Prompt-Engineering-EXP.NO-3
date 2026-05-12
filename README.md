@@ -289,3 +289,4 @@ References
 
 
 RESULT: 
+Thus thetypes of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting is created successfully

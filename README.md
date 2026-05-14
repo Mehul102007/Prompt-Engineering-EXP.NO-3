@@ -290,3 +290,4 @@ References
 
 RESULT:
 
+Thus,the experiment for exploring different type of prompt is completed successfully.
